@@ -1,6 +1,6 @@
 ### Olá 👋 eu sou o João V. de Souza (Will), futuro administrativo de redes!
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/jvwill">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jvwill&show_icons=true&icon_color=00BFFF&border_color=000000&theme=radical&include_all_commits=true&count_private=true&border_radius=20"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvwill&layout=compact&langs_count=7&theme=radical&icon_color=00BFFF&border_color=000000&border_radius=20"/>
