@@ -2,8 +2,7 @@
 
 <div align="center-left">
   <a href="https://github.com/jvwill">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jvwill&show_icons=true&icon_color=00BFFF&border_color=000000&theme=radical&include_all_commits=true&count_private=true&border_radius=20"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvwill&layout=compact&langs_count=7&theme=radical&icon_color=00BFFF&border_color=000000&border_radius=20"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jvwill&show_icons=true&icon_color=00BFFF&border_color=000000&theme=radical&include_all_commits=true&count_private=true&border_radius=20"/><img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvwill&layout=compact&langs_count=7&theme=radical&icon_color=00BFFF&border_color=000000&border_radius=20"/>
 </div>
   <div style="display: inline_block"><br>
         <img align="center" alt="Jv-Debian" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg">
