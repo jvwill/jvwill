@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-![Snake animation]()
+![Snake animation](https://github.com/jvwill/github-contribution-grid-snake.svg)
 
 github-contribution-grid-snake.svg
