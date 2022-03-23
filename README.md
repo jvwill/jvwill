@@ -6,12 +6,12 @@
    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvwill&layout=compact&langs_count=7&theme=radical&icon_color=00BFFF&border_color=000000&border_radius=20px"/>
 </div>
 
-  <div style="display: inline_block"><br>
+  <div style="display_bold: inline_block"><br>
    <img align="center" alt="Jv-Debian" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg">
    <img align="center" alt="Jv-Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
    <img align="center" alt="Jv-Amazon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
     <img align="center" alt="Jv-Canva" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-    <img align="center" alt="Jv-Trello" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
+    <img align="center" alt="Jv-Trello" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
 </div>
 
 <div align="left">    
@@ -30,7 +30,7 @@
    <img align="center" alt="Jv-Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
    <img align="center" alt="Jv-Amazon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
    <img align="center" alt="Jv-Canva" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-   <img align="center" alt="Jv-Trello" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
+   <img align="center" alt="Jv-Trello" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
 
 
   
@@ -40,8 +40,8 @@
    <img align="center" alt="Jv-Kubernetes" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"> 
    <img align="center" alt="Jv-Azure" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
    <img align="center" alt="Jv-RedHat" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain.svg">
-   <img align="center" alt="Jv-*****" height="50" width="50" src="">
-   <img align="center" alt="Jv-*****" height="50" width="50" src="">
+   <img align="center" alt="Jv-Nginx" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg">
+   <img align="center" alt="Jv-GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
    <img align="center" alt="Jv-*****" height="50" width="50" src="">
    <img align="center" alt="Jv-*****" height="50" width="50" src="">
 
